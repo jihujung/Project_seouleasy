@@ -15,7 +15,7 @@
 
 ## 3. 사용언어
    + java, jsp, javascript, jquery, html, css, bootstrap
-   + Spring, mybatis, meaven
+   + Spring, mybatis, meven
    + Mysql sql developer
 
 <br/>
